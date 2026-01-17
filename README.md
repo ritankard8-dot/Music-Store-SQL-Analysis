@@ -36,4 +36,4 @@ The SQL analysis is categorized into three levels of difficulty:
 4.  Open `Music_Store_Analysis.sql` in the Query Tool and run the queries.
 
 ---
-*Author: [Your Name]*
+*Author: [RITANKAR DAS]*
